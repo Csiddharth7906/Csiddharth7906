@@ -47,7 +47,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Csiddharth7906&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="108" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Csiddharth7906&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="108" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Csiddharth7906&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="111" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Csiddharth7906&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="110" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Csiddharth7906&theme=dracula&column=8&row=8&margin-w=20&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
