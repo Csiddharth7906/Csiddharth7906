@@ -1,4 +1,4 @@
-<p align="left">- 🌱 I’m currently learning **JAVA**<br><br>- 💬 Ask me about **HTML,CSS,C++,C,JAVA**<br><br>- 📫 How to reach me **siddharthchauhan7906@gmail.com**</p>
+<p align="left">- 🌱 I’m currently learning **Web Devlopement**<br><br>- 💬 Ask me about **HTML,CSS,C++,C,JAVA**<br><br>- 📫 How to reach me **siddharthchauhan7906@gmail.com**</p>
 
 ###
 
