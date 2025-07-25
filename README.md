@@ -2,7 +2,7 @@
   
 # 👋 Hello World! I'm **Siddharth Chauhan**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+Problem+Solver;Code+Explorer+%26+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Intern;MERN+Stack+Enthusiast;DSA+Problem+Solver;Code+Explorer+%26+Creator" alt="Typing SVG" />
 
 <img width="40" height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/>
 
@@ -16,10 +16,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Full Stack Applications** with **MERN Stack**
+- 💼 **Currently interning** at **ModelSuit.ai** as **Full Stack Developer Intern** (Remote)
+- 🔭 Building **Full Stack Applications** with **MERN Stack** in production environment
 - 🌱 Learning advanced **React patterns**, **Node.js**, and **System Design**
 - 💡 Passionate about **Data Structures & Algorithms**
-- 🎯 2025 Goal: **Master Full Stack Development & Contribute to Open Source**
+- 🎯 2025 Goal: **Excel in my internship & Master Full Stack Development**
 - ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
 
 <br clear="both">
@@ -55,6 +56,27 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+---
+
+## 💼 **Professional Experience**
+
+<div align="center">
+
+### 🚀 **Full Stack Developer Intern** | ModelSuit.ai
+**📅 July 2025 - September 2025** | **🌐 Remote**
+
+<img src="https://img.shields.io/badge/Status-Currently%20Interning-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" />
+<img src="https://img.shields.io/badge/Duration-2%20Months-blue?style=for-the-badge&logo=calendar&logoColor=white" />
+<img src="https://img.shields.io/badge/Mode-Remote-purple?style=for-the-badge&logo=home&logoColor=white" />
+
+🎯 **Gaining hands-on experience in:**
+- Building scalable web applications in production environment
+- Working with industry-standard development practices
+- Collaborating with professional development teams
+- Implementing AI-powered solutions and modern web technologies
 
 </div>
 
