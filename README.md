@@ -1,64 +1,166 @@
-<h1 align="center">Hi 👋, I'm Siddharth Chauhan</h1>
-<h3 align="center">Aspiring Full Stack Web Developer | DSA Enthusiast | Code Explorer</h3>
+<div align="center">
+  
+# 👋 Hello World! I'm **Siddharth Chauhan**
 
-<p align="left">
-  🚀 I’m currently learning <strong>Web Development (MERN Stack)</strong><br><br>
-  💬 Ask me about <strong>HTML, CSS, C++, C, Java, JavaScript, React</strong><br><br>
-  📫 How to reach me: <strong>siddharthchauhan7906@gmail.com</strong>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+Problem+Solver;Code+Explorer+%26+Creator" alt="Typing SVG" />
+
+<img width="40" height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCsiddharth7906&label=Profile%20Views&countColor=%2337d67a&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCsiddharth7906)
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## 🚀 About Me
+
+- 🔭 Currently building **Full Stack Applications** with **MERN Stack**
+- 🌱 Learning advanced **React patterns**, **Node.js**, and **System Design**
+- 💡 Passionate about **Data Structures & Algorithms**
+- 🎯 2025 Goal: **Master Full Stack Development & Contribute to Open Source**
+- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
 
 <br clear="both">
 
-<img align="right" height="209" src="https://media.giphy.com/media/iDa9mC3QtMvP7KXHDN/giphy.gif" />
-
-### 🌐 Connect with Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/siddharth-chauhan-3496982b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  <a href="https://twitter.com/Csiddharth790" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
-  </a>
-  <a href="https://discord.gg/jJrPjpXx" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC3LKTtWP3OzzvNlIH6aSbOg" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" />
-  </a>
-  <a href="https://www.instagram.com/codewithsiddharth_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-  </a>
-</div>
-
 ---
 
-### 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-</div>
-
----
-
-### 📊 GitHub Stats
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Csiddharth7906&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csiddharth7906&layout=compact&theme=dracula&langs_count=6" height="150" />
+
+### **Frontend** 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+### **Programming Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
 </div>
 
 ---
 
-### 🔥 Streak & Achievements
+## 🏗️ **Featured Projects**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Csiddharth7906&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Csiddharth7906&theme=dracula&no-frame=false&column=6&margin-w=15&margin-h=15" height="150" />
+
+<a href="https://github.com/Csiddharth7906/DevMatch-UI" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Csiddharth7906&repo=DevMatch-UI&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+</a>
+
+<a href="https://github.com/Csiddharth7906/DevMatch-Backend" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Csiddharth7906&repo=DevMatch-Backend&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+</a>
+
+</div>
+
+### 🎯 **DevMatch - Full Stack Developer Matchmaking Platform**
+- 🔥 **Frontend**: React + Redux + Tailwind CSS + Real-time Chat
+- ⚡ **Backend**: Node.js + Express + MongoDB + Socket.io + JWT
+- 🌐 **Live Demo**: [Frontend](https://dev-match-ui-o51l.vercel.app) | [API](https://devmatch-backend.onrender.com)
+- 🛠️ **Features**: User Auth, Profile Management, Real-time Messaging, Smart Matching
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Csiddharth7906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7F3FBF&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csiddharth7906&layout=compact&theme=tokyonight&langs_count=8&border_color=7F3FBF&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Csiddharth7906&theme=tokyonight&border_radius=10&border=7F3FBF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Csiddharth7906&theme=tokyo-night&bg_color=1a1b27&color=9745f5&line=9745f5&point=403d3d&area=true&hide_border=false&border_color=7F3FBF&radius=10" width="100%"/>
+</div>
+
+---
+
+## 🏆 **Achievements & Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Csiddharth7906&theme=tokyonight&no-frame=false&column=7&margin-w=15&margin-h=15&border_color=7F3FBF" />
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate!**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/siddharth-chauhan-3496982b1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/Csiddharth790" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:siddharthchauhan7906@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.gg/jJrPjpXx" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UC3LKTtWP3OzzvNlIH6aSbOg" target="_blank">
+  <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/codewithsiddharth_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 💭 **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=7F3FBF" />
+</div>
+
+---
+
+## 🎵 **Currently Coding To**
+
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=7F3FBF)](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=7F3FBF)
+
+</div>
+
+---
+
+<div align="center">
+  
+## 💬 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+<img src="https://komarev.com/ghpvc/?username=Csiddharth7906&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+
+### 💝 **Thanks for visiting!** 
+### ⭐ **Don't forget to star my repositories if you find them interesting!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
+
 </div>
