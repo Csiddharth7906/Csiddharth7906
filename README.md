@@ -1,4 +1,4 @@
-# Siddharth Chauhan
+## Siddharth Chauhan
 
 **Full Stack Developer** • Building scalable web applications with modern technologies
 
@@ -20,9 +20,7 @@ Full-stack application connecting developers based on skills and interests
 - **Features:** JWT authentication, profile management, real-time messaging, smart matching algorithm
 - **Deployment:** Frontend on Vercel, Backend on Render
 - [Live Demo](https://dev-match-ui-o51l.vercel.app) • [Frontend Code](https://github.com/Csiddharth7906/DevMatch-UI) • [Backend Code](https://github.com/Csiddharth7906/DevMatch-Backend)
-
-### [Additional projects as you build them]
-
+  
 ## Experience
 
 **Full Stack Developer Intern** @ ModelSuit.ai  
