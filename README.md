@@ -11,16 +11,6 @@ Currently interning at **ModelSuit.ai** as a Full Stack Developer, working on pr
 **Backend:** Node.js, Express.js, MongoDB, Socket.io  
 **Tools:** Git, VS Code, Postman, Vercel, Render  
 
-## Featured Projects
-
-### DevMatch - Developer Matchmaking Platform
-Full-stack application connecting developers based on skills and interests
-- **Frontend:** React + Redux + Tailwind CSS with real-time chat functionality
-- **Backend:** RESTful API with Node.js, Express, MongoDB, and Socket.io
-- **Features:** JWT authentication, profile management, real-time messaging, smart matching algorithm
-- **Deployment:** Frontend on Vercel, Backend on Render
-- [Live Demo](https://dev-match-ui-o51l.vercel.app) • [Frontend Code](https://github.com/Csiddharth7906/DevMatch-UI) • [Backend Code](https://github.com/Csiddharth7906/DevMatch-Backend)
-  
 ## Experience
 
 **Full Stack Developer Intern** @ ModelSuit.ai  
@@ -28,13 +18,6 @@ Full-stack application connecting developers based on skills and interests
 - Building scalable web applications in production environment
 - Working with modern development practices and team collaboration
 - Implementing AI-powered solutions with MERN stack technologies
-
-## Current Focus
-
-- Mastering advanced React patterns and Node.js optimization
-- Learning system design principles for scalable applications
-- Contributing to open-source projects in the MERN ecosystem
-- Building portfolio projects that demonstrate real-world problem-solving
 
 ## GitHub Stats
 
